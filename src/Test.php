@@ -13,4 +13,9 @@ class Test
     {
         return 'hello';
     }
+
+    public function hello()
+    {
+        return 'composer';
+    }
 }
